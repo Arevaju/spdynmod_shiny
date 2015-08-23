@@ -24,7 +24,8 @@ Imports:
     deSolve,
     animation
 Depends:
-    raster
+    raster,
+    shiny
 Suggests:
     knitr,
     roxygen2,

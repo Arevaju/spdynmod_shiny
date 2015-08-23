@@ -1,0 +1,89 @@
+//*.row-fluid {
+    padding-left: 190px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+.row-fluid .span4 { 
+    position: relative;
+    float:left;
+    width: 190px;
+    right: 200px;
+    margin-right: -190px;
+}
+.row-fluid .span8 {
+    float: right;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+}
+.well { 
+    padding-left: 15px;
+    padding-right: 15px; 
+    margin-bottom: 0px; 
+    width: auto; 
+}
+textarea, .jslider, select{
+    width: 100%;
+}
+input{
+    width: 145px;
+}*//
+
+.rChart{
+width: 4200px; 
+height: 800px
+}
+.row-fluid {   
+    box-sizing: border-box;
+    -moz-box-sizing: border-box; 
+    margin-top: 60px;
+}
+//*
+.well { 
+    padding-left: 15px;
+    padding-right: 15px; 
+    margin-bottom: 0px; 
+    width: auto; 
+}
+*//
+.row-fluid .span8 {
+   float: left; 
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 60%;
+
+}
+h1 {
+  font-family: 'Verdana'
+  font-weight: 500;
+  line-height: 1.0;
+  color: #2b7cac;
+}
+.shiny-output-error-validation {
+        color: #004494;
+		font-weight: bold;
+      }
+.tabbable{
+        float: left; 
+        position: relative;
+        width: 1120px;
+}
+.col-sm-4 {
+  width: 23.33333333%;
+}
+.container-fluid {
+  padding-right: 15px;
+  padding-left: 100px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.span4 { max-width: 320px;
+  }
+  #savemap {
+  margin-left: 240px;
+}
+#savemap2 {
+  margin-left: 290px;
+}
